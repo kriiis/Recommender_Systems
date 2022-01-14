@@ -2,7 +2,8 @@
 
 This Repo contains:
 
-data folder - all the data files as csv
+data folder - all the data files as csv 
+
 resources folder - resource file from our WBS Trainer
 
 wbsflix.ipynb - my jupyter notebook with 3 different recommender chat-bots
